@@ -107,6 +107,7 @@ python robocam.py --input video.mp4      # For video file
 
 📱 Mobile App Alerts for on-the-go monitoring
 
-📜 License
+###  📜 License
 This project is open-source under the MIT License — free to use and modify.
+
 
