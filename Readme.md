@@ -85,10 +85,12 @@ git clone https://github.com/himanshu8in/robocam.git
 cd robocam
 ```
 ### 🔹 Install Dependencies
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 ###  Run RoboCam
-```python robocam.py --input 0              # For webcam
+```
+python robocam.py --input 0              # For webcam
 python robocam.py --input video.mp4      # For video file
 ```
 ###  🔹 Output
@@ -107,3 +109,4 @@ python robocam.py --input video.mp4      # For video file
 
 📜 License
 This project is open-source under the MIT License — free to use and modify.
+
