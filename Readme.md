@@ -83,3 +83,27 @@ RoboCam is an AI-powered surveillance enhancement system that transforms existin
 ```bash
 git clone https://github.com/himanshu8in/robocam.git
 cd robocam
+```
+### 🔹 Install Dependencies
+```pip install -r requirements.txt
+```
+###  Run RoboCam
+```python robocam.py --input 0              # For webcam
+python robocam.py --input video.mp4      # For video file
+```
+###  🔹 Output
+- Annotated video feed with detected threats, crowd density, and accidents
+
+- Instant alert notifications (if enabled)
+
+###  🔮 Future Enhancements
+🧑‍💼 Facial Recognition for Watchlists
+
+🌐 Integration with IoT Devices for automated safety responses
+
+📊 Advanced Predictive Analytics for crime and accident prevention
+
+📱 Mobile App Alerts for on-the-go monitoring
+
+📜 License
+This project is open-source under the MIT License — free to use and modify.
